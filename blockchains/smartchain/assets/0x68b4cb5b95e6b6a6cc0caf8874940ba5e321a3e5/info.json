@@ -1,0 +1,11 @@
+{
+  "name": "ТВОЕ НАЗВАНИЕ",
+  "symbol": "ТВОЙ СИМВОЛ",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Your token description",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0x68B4cb5b95E6b6A6cc0Caf8874940BA5E321A3E5",
+  "status": "active",
+  "id": "0x68B4cb5b95E6b6A6cc0Caf8874940BA5E321A3E5"
+}
